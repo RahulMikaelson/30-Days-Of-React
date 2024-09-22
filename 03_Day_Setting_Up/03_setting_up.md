@@ -233,7 +233,7 @@ ReactDOM.render(jsxElement, rootElement)
 ```
 
 ```html
-<!-- index.html -->
+<!-- Day2.html -->
 <!DOCTYPE html>
 <html lang="en">
   <head>
