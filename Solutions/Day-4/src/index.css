@@ -1,0 +1,79 @@
+.main-div{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+h6{
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h3,h2{
+  margin: 10px 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding-top: 0px;
+}
+.heading{
+  display: flex;
+  justify-content: left;
+}
+.footer{
+  display: flex;
+  justify-content: left;
+
+}
+.image{
+  max-width: 150px;
+  max-height: 150px;
+  border-radius: 50%;
+  padding: 0;
+  margin: 0;
+}
+svg{
+  width: 1.5vw;
+  padding: 0 5px;
+  color: #66ccff;
+
+}
+body{
+  background-color: #f0f1f7;
+}
+.main-div2{
+  margin: 10px;
+  background-color: white;
+  padding: 20px;
+  height: 90vh;
+}
+.child-div1{
+  background-color: #518cef;
+}
+.child-div2{
+  background-color: #3b10c4;
+}
+.child-div3{
+  background-color: #9aede6;
+}
+.child-div4{
+  background-color: #8ee763;
+}
+.child-div5{
+  background-color: #a30dd0;
+}
+.listItems{
+  list-style: none;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #2acfcf;
+  color: white;
+  padding: 4px 10px;
+  margin: 5px 10px;
+  border-radius: 5px;
+}
+.skills{
+  display: flex;        /* Use flexbox layout */
+  flex-wrap: wrap;      /* Allow items to wrap to the next line when space is full */
+  padding: 0;           /* Remove default padding from the list */
+  margin: 0;            /* Remove default margin from the list */
+  list-style: none;     /* Remove default bullets from list items */
+}
+p{
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
